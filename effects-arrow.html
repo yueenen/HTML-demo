@@ -1,0 +1,46 @@
+<!--Created by yueenen on 12/10/16 10:01.-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> 你不会的原因是想的太多，写得太少。</title>
+    <style>
+        a {
+            position: relative;
+            margin: 0 auto;
+        }
+
+        b, s {
+            border: 100px solid;
+            position: absolute;
+
+        }
+
+        b {
+            border-color: transparent transparent transparent deeppink;
+            left: 10px;
+        }
+
+        s {
+            border-color: transparent transparent transparent white;
+        }
+    </style>
+</head>
+<body>
+    <a href="#">
+        <b></b>
+        <s></s>
+    </a>
+    <script>
+        var a = document.getElementsByTagName("a")[0];
+        var b = document.getElementsByTagName("b")[0];
+        var s = document.getElementsByTagName("s")[0];
+        a.onclick = function () {
+            b.style.borderColor= "deeppink transparent transparent transparent";
+            b.style.top = "10px";
+            b.style.left = 0;
+            s.style.borderColor = "white transparent transparent transparent"
+        }
+    </script>
+</body>
+</html>
