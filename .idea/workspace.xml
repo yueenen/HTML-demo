@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7a274de9-55e8-4445-b018-162326cd33a0" name="Default" comment="效果 - 鼠标移进高亮">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/effects-bookmark.html" afterPath="$PROJECT_DIR$/effects-bookmark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arrow-iconfont.html" afterPath="$PROJECT_DIR$/arrow-iconfont.html" />
     </list>
     <list id="7cba2b5b-ff9e-49e3-9523-6a08610c8977" name="Rejected commit: Default" comment="效果 - 鼠标移进高亮" />
     <ignored path="HTML-demo.iws" />
@@ -36,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="effects-bookmark.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="effects-bookmark.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/effects-bookmark.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arrow-iconfont.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arrow-iconfont.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -96,13 +106,13 @@
         <option value="$PROJECT_DIR$/效果 - 书签.html" />
         <option value="$PROJECT_DIR$/effects - arrow.html" />
         <option value="$PROJECT_DIR$/effects-arrow.html" />
-        <option value="$PROJECT_DIR$/arrow-iconfont.html" />
         <option value="$PROJECT_DIR$/effects-changeBg.html" />
         <option value="$PROJECT_DIR$/triangle.html" />
         <option value="$PROJECT_DIR$/layout-contents first.html" />
         <option value="$PROJECT_DIR$/effects-mouseenter.html" />
         <option value="$PROJECT_DIR$/effects-changeBgImg.html" />
         <option value="$PROJECT_DIR$/effects-bookmark.html" />
+        <option value="$PROJECT_DIR$/arrow-iconfont.html" />
       </list>
     </option>
   </component>
@@ -253,12 +263,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481325865188</updated>
-      <workItem from="1481325866575" duration="15174000" />
+      <workItem from="1481325866575" duration="15247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15174000" />
+    <option name="totallyTimeSpent" value="15247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -323,14 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arrow-iconfont.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/effects-arrow.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -380,6 +382,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrow-iconfont.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding />
         </state>
       </provider>
