@@ -12,6 +12,7 @@
             text-decoration: none;
             color: #fff;
             box-sizing: border-box;
+            transition: all .1s;
         }
 
         header {
@@ -20,28 +21,37 @@
             height: 74px;
             text-align: center;
         }
-
-        ul {
-            margin: 0 auto;
+        ul{
             width: 800px;
-            content: "";
+            margin: 0 auto;
+            padding-top: 20px;
+        }
+        ul:after{
             display: inline-block;
             clear: both;
+            line-height: 0;
+            height: 0;
+            content: "";
         }
-
-        ul li {
+        ul li{
+            height: 35px;
+            line-height: 35px;
+            padding-left: 15px;
             float: left;
-            line-height: 74px;
-            padding-left: 50px;
-            background: url("images/spirit.png") 0 1160px;
             margin-right: 20px;
-            cursor: pointer;
+            background: url("images/spirit.png") 0 1141px;
         }
-
-        a {
+        ul li a{
             display: inline-block;
-            padding-right: 50px;
-            background: url("images/spirit.png") right -172px;
+            padding-right: 15px;
+            background: url("images/spirit.png") right 1141px;
+
+        }
+        ul li:hover{
+            background: url("images/spirit.png") 0 1189px;
+        }
+        ul li:hover a{
+            background: url("images/spirit.png") right 1189px;
         }
     </style>
 </head>
@@ -49,9 +59,9 @@
     <header>
         <ul>
             <li><a href="#">HAHAHAHA</a></li>
-            <li><a href="#">2</a></li>
-            <li><a href="#">3</a></li>
-            <li><a href="#">4</a></li>
+            <li><a href="#">list</a></li>
+            <li><a href="#">list</a></li>
+            <li><a href="#">list</a></li>
         </ul>
     </header>
 </body>

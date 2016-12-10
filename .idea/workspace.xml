@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a274de9-55e8-4445-b018-162326cd33a0" name="Default" comment="效果 - 鼠标移进高亮">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/spirit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/effects-changeBgImg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/effects-changeBgImg.html" afterPath="$PROJECT_DIR$/effects-changeBgImg.html" />
     </list>
     <list id="7cba2b5b-ff9e-49e3-9523-6a08610c8977" name="Rejected commit: Default" comment="效果 - 鼠标移进高亮" />
     <ignored path="HTML-demo.iws" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="effects-changeBgImg.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/effects-changeBgImg.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="381">
+              <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -212,12 +209,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481325865188</updated>
-      <workItem from="1481325866575" duration="12633000" />
+      <workItem from="1481325866575" duration="14515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12633000" />
+    <option name="totallyTimeSpent" value="14515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -337,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/effects-changeBgImg.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="381">
+          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
           <folding />
         </state>
       </provider>
